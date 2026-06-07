@@ -1,0 +1,1 @@
+template<typename T> class RingBuffer{ }; int main(){return 0;}
